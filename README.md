@@ -1,0 +1,1 @@
+# strict-8th-class
